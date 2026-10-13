@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rhistory
+*.RData
+*.tmp
+__pycache__/
+*.pyc
